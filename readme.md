@@ -2,4 +2,4 @@
 
 pls work
 
-![gif](https://giphy.com/gifs/xT4uQfHn1CUGyYsiiY)
+![gif](https://myoctocat.com/assets/images/base-octocat.svg)
